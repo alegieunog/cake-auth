@@ -11,3 +11,9 @@ The following is the project structure for our Cake Auth:
 2) User Details Service class - This has been implemented to retrieve the user data from the properties file.
 
 3) Test classes - This consists of a test application config file and a unit test class for the service class.
+
+To run a server locally execute the following commands:
+
+1) In cake-auth, select from the menu bar
+
+    Run -> Run 'CakeAuthMain'
